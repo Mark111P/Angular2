@@ -1,0 +1,16 @@
+body
+{
+    display: block;
+    width: fit-content;
+    padding: 10px;
+    background-color: rgb(240, 240, 240);
+
+    color: rgb(160, 0, 0);
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.item
+{
+    font-style: italic;
+    color: rgb(23, 0, 87);
+}
